@@ -24,7 +24,9 @@ The method GoToPage method must return a boolean, indicating whether or not titl
 
 You can use any other methods, classes, or other libraries you wish. 
 
-Helpful Hint: The Selenium Webdriver library is quickly emerging as the de-facto standard for testing user interfaces on websites and web applications. As it's name infers, WebDriver opens a web browser and "drives" the interaction with the application, exactly as a user would. It's not necessarily required to use WebDriver for this challenge, but it is recommended: Not only will it save you a lot of coding, but it will give you valuable experience that is relevant in the current job market.
+Helpful Hint: The Selenium Webdriver library is quickly emerging as the de-facto standard for testing user interfaces on websites and web applications. As it's name infers, WebDriver opens a web browser and "drives" the interaction with the application, exactly as a user would. It's not necessarily required to use WebDriver for this challenge, but it is recommended: Not only will it save you a lot of coding, but it will give you valuable experience that is relevant in the current job market. If you're not familiar with WebDriver, you can learn more at the following web site: 
+
+http://toolsqa.com/selenium-tutorial/
 
 Part B: Exercise your class.
 
